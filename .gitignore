@@ -1,0 +1,23 @@
+# Privacy and local artifacts
+.env
+.env.*
+*.log
+*.db
+*.sqlite
+*.sqlite3
+*.pem
+*.p12
+*.jks
+node_modules/
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+dist/
+build/
+target/
+logs/
+runtime/
+tmp/
+output/
+models/
